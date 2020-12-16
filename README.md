@@ -7,16 +7,16 @@
 
 <b> </b>
 
-[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black)](https://www.linkedin.com/in/kubrakurtk/)
-[![](https://img.shields.io/badge/Medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white&color=black)](https://kubrakurt.medium.com/)
-[![](https://img.shields.io/badge/Kaggle-%2312100E.svg?&style=for-the-badge&logo=kaggle&logoColor=white&color=black)](https://www.kaggle.com/kubrakurt)
-[![](https://img.shields.io/badge/Twitter-%2312100E.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=black)](https://twitter.com/kubrakurtk)
-[![](https://img.shields.io/badge/Instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black)](https://www.instagram.com/kubrakurtk/)
+[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=000542)](https://www.linkedin.com/in/kubrakurtk/)
+[![](https://img.shields.io/badge/Medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white&color=000542)](https://kubrakurt.medium.com/)
+[![](https://img.shields.io/badge/Kaggle-%2312100E.svg?&style=for-the-badge&logo=kaggle&logoColor=white&color=000542)](https://www.kaggle.com/kubrakurt)
+[![](https://img.shields.io/badge/Twitter-%2312100E.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=000542)](https://twitter.com/kubrakurtk)
+[![](https://img.shields.io/badge/Instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=000542)](https://www.instagram.com/kubrakurtk/)
 
 <b> </b>
 
-[![](https://img.shields.io/badge/-cD1?style=for-the-badge&logo=python&color=black)]()
-[![](https://img.shields.io/badge/-cD1?style=for-the-badge&logo=rstudio&color=black&)]()
+[![](https://img.shields.io/badge/-cD1?style=for-the-badge&logo=python&color=000542)]()
+[![](https://img.shields.io/badge/-cD1?style=for-the-badge&logo=rstudio&color=000542)]()
   
 <b> </b>
 
