@@ -7,21 +7,21 @@
 
 <b> </b>
 
-[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=000542)](https://www.linkedin.com/in/kubrakurtk/)
-[![](https://img.shields.io/badge/Medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white&color=000542)](https://kubrakurt.medium.com/)
-[![](https://img.shields.io/badge/Kaggle-%2312100E.svg?&style=for-the-badge&logo=kaggle&logoColor=white&color=000542)](https://www.kaggle.com/kubrakurt)
-[![](https://img.shields.io/badge/Twitter-%2312100E.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=000542)](https://twitter.com/kubrakurtk)
-[![](https://img.shields.io/badge/Instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=000542)](https://www.instagram.com/kubrakurtk/)
+[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=B40000)](https://www.linkedin.com/in/kubrakurtk/)
+[![](https://img.shields.io/badge/Medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white&color=B40000)](https://kubrakurt.medium.com/)
+[![](https://img.shields.io/badge/Kaggle-%2312100E.svg?&style=for-the-badge&logo=kaggle&logoColor=white&color=B40000)](https://www.kaggle.com/kubrakurt)
+[![](https://img.shields.io/badge/Twitter-%2312100E.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=B40000)](https://twitter.com/kubrakurtk)
+[![](https://img.shields.io/badge/Instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=B40000)](https://www.instagram.com/kubrakurtk/)
 
 <b> </b>
 
-[![](https://img.shields.io/badge/-cD1?style=for-the-badge&logo=python&color=000542)]()
-[![](https://img.shields.io/badge/-cD1?style=for-the-badge&logo=rstudio&color=000542)]()
+[![](https://img.shields.io/badge/-cD1?style=for-the-badge&logo=python&color=007485)]()
+[![](https://img.shields.io/badge/-cD1?style=for-the-badge&logo=rstudio&color=007485)]()
   
 <b> </b>
 
 </a> <a href="https://github.com/kubrakurt">
   <img align="center" 
-       src="https://github-readme-stats.vercel.app/api?username=kubrakurt&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=FFFFFF&icon_color=FF0000&bg_color=000542" alt="kubrakurt's GitHub Stats" />
+       src="https://github-readme-stats.vercel.app/api?username=kubrakurt&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=FFFFFF&icon_color=5C0000&bg_color=004D63" alt="kubrakurt's GitHub Stats" />
   </a> <a href="https://github.com/kubrakurt">
-  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kubrakurt&title_color=ffffff&text_color=FFFFFF&icon_color=FF0000&bg_color=000542" />
+  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kubrakurt&title_color=ffffff&text_color=FFFFFF&icon_color=B40000&bg_color=004D63" />
