@@ -24,4 +24,4 @@
   <img align="center" 
        src="https://github-readme-stats.vercel.app/api?username=kubrakurt&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=FFFFFF&icon_color=B40000&bg_color=002624" alt="kubrakurt's GitHub Stats" />
   </a> <a href="https://github.com/kubrakurt">
-  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kubrakurt&title_color=ffffff&text_color=FFFFFF&icon_color=B40000&bg_color=B40000" />
+  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kubrakurt&title_color=ffffff&text_color=FFFFFF&icon_color=B40000&bg_color=002624" />
