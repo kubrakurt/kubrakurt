@@ -7,11 +7,11 @@
 
 <b> </b>
 
-[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=3E3E3E)](https://www.linkedin.com/in/kubrakurtk/)
-[![](https://img.shields.io/badge/Medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white&color=3E3E3E)](https://kubrakurt.medium.com/)
-[![](https://img.shields.io/badge/Kaggle-%2312100E.svg?&style=for-the-badge&logo=kaggle&logoColor=white&color=3E3E3E)](https://www.kaggle.com/kubrakurt)
-[![](https://img.shields.io/badge/Twitter-%2312100E.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=3E3E3E)](https://twitter.com/kubrakurtk)
-[![](https://img.shields.io/badge/Instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=3E3E3E)](https://www.instagram.com/kubrakurtk/)
+[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&&theme=dark)](https://www.linkedin.com/in/kubrakurtk/)
+[![](https://img.shields.io/badge/Medium-%2312100E.svg?&style=for-the-badge&logo=medium&&theme=dark)](https://kubrakurt.medium.com/)
+[![](https://img.shields.io/badge/Kaggle-%2312100E.svg?&style=for-the-badge&logo=kaggle&&theme=dark)](https://www.kaggle.com/kubrakurt)
+[![](https://img.shields.io/badge/Twitter-%2312100E.svg?&style=for-the-badge&logo=twitter&&theme=dark)](https://twitter.com/kubrakurtk)
+[![](https://img.shields.io/badge/Instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&&theme=dark)](https://www.instagram.com/kubrakurtk/)
 
 <b> </b>
 
@@ -22,6 +22,6 @@
 
 </a> <a href="https://github.com/kubrakurt">
   <img align="center" 
-       src="https://github-readme-stats.vercel.app/api?username=kubrakurt&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=FFFFFF&icon_color=FFFFFF&bg_color=3E3E3E" alt="kubrakurt's GitHub Stats" />
+       src="https://github-readme-stats.vercel.app/api?username=kubrakurt&show_icons=true&theme=dark" alt="kubrakurt's GitHub Stats" />
   </a> <a href="https://github.com/kubrakurt">
-  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kubrakurt&title_color=ffffff&text_color=FFFFFF&icon_color=B40000&bg_color=3E3E3E" />
+  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kubrakurt&theme=dark" />
