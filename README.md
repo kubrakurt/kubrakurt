@@ -15,8 +15,8 @@
 
 <b> </b>
 
-[![](https://img.shields.io/badge/-cD1?style=for-the-badge&theme=dark)]()
-[![](https://img.shields.io/badge/-cD1?style=for-the-badge&theme=dark)]()
+[![](https://img.shields.io/badge/-cD1?style=for-the-badge&logo=rstudio&color=161616)]()
+[![](https://img.shields.io/badge/-cD1?style=for-the-badge&logo=python&color=161616)]()
   
 <b> </b>
 
