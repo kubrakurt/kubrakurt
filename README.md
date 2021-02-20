@@ -15,6 +15,4 @@
 </a> <a href="https://github.com/kubrakurt">
   <img align="center" 
        src="https://github-readme-stats.vercel.app/api?username=kubrakurt&show_icons=true&theme=dark" alt="kubrakurt's GitHub Stats" />
-  </a> <a href="https://github.com/kubrakurt">
-  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kubrakurt&theme=dark" />
  
