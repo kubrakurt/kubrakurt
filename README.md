@@ -12,11 +12,6 @@
 [![](https://img.shields.io/badge/Twitter-%2312100E.svg?&style=for-the-badge&logo=twitter&theme=dark)](https://twitter.com/kubrakurtk)
 [![](https://img.shields.io/badge/Instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&theme=dark)](https://www.instagram.com/kubrakurtk/)
   
-
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png"></code>
-
-  
 </a> <a href="https://github.com/kubrakurt">
   <img align="center" 
        src="https://github-readme-stats.vercel.app/api?username=kubrakurt&show_icons=true&theme=dark" alt="kubrakurt's GitHub Stats" />
