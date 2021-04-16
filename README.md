@@ -12,7 +12,21 @@
 [![](https://img.shields.io/badge/Twitter-%2312100E.svg?&style=for-the-badge&logo=twitter&theme=dark)](https://twitter.com/kubrakurtk)
 [![](https://img.shields.io/badge/Instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&theme=dark)](https://www.instagram.com/kubrakurtk/)
   
-</a> <a href="https://github.com/kubrakurt">
-  <img align="center" 
-       src="https://github-readme-stats.vercel.app/api?username=kubrakurt&show_icons=true&theme=dark" alt="kubrakurt's GitHub Stats" />
+</a> <a href = "https://github.com/kubrakurt">
+  <img align = "center" 
+       src = "https://github-readme-stats.vercel.app/api?username=kubrakurt&show_icons=true&theme=dark" alt = "kubrakurt's GitHub Stats" />
  
+## Projeler
+
+* [1. LightGBM Model](https://github.com/kubrakurt/lightgbm_model)
+* [2. IRIS Görselleştirme ve Sınıflandırma](https://github.com/kubrakurt/iris_visualization_and_classification)
+* [3. Öneri Sistemleri](https://github.com/kubrakurt/recommendation_systems)
+* [4. Python ile Film Yorumlarının Duygu Analizi](https://github.com/kubrakurt/turkish_movie_sentiment_analysis)
+* [5. Python ile Metin Ön İşleme, WordCloud & Word2Vec Model](https://github.com/kubrakurt/word2vec_model)
+* [6. Python ile Vikipedi & Haber Sitelerinden Metin Kazıma](https://github.com/kubrakurt/python_text_scraping)
+
+## Kaynaklar
+
+* [1. Doğal Dil İşleme](https://github.com/kubrakurt/natural_language_processing_resource)
+* [2. Veri Analizi](https://github.com/kubrakurt/data_analysis_resource)
+* [3. Veri Görselleştirme](https://github.com/kubrakurt/data_visualization_resource)
