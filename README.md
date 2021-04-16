@@ -1,4 +1,4 @@
-<h1 align="center"> Hi 👋, I'm Kübra </h1>
+<h1 align="center"> Hi <img width="32" src="https://raw.githubusercontent.com/fatiiates/fatiiates/main/wave.gif"/>, I'm Kübra </h1>
 <h3 align="center"> Data Analyst at ENBIOSIS Biotechnology | Statistics at Marmara University </h3>
 
 - 🔭 I’m currently working on **Data Science**
