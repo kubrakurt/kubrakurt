@@ -18,8 +18,8 @@
  
 ## Projeler
 
-* [1. LightGBM Model](https://github.com/kubrakurt/lightgbm_model)
-* [2. IRIS Görselleştirme ve Sınıflandırma](https://github.com/kubrakurt/iris_visualization_and_classification)
+* [1. IRIS Görselleştirme ve Sınıflandırma](https://github.com/kubrakurt/iris_visualization_and_classification)
+* [2. LightGBM Model](https://github.com/kubrakurt/lightgbm_model)
 * [3. Öneri Sistemleri](https://github.com/kubrakurt/recommendation_systems)
 * [4. Python ile Film Yorumlarının Duygu Analizi](https://github.com/kubrakurt/turkish_movie_sentiment_analysis)
 * [5. Python ile Metin Ön İşleme, WordCloud & Word2Vec Model](https://github.com/kubrakurt/word2vec_model)
