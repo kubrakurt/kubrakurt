@@ -28,5 +28,6 @@
 ## Kaynaklar
 
 * [1. Doğal Dil İşleme](https://github.com/kubrakurt/natural_language_processing_resource)
-* [2. Veri Analizi](https://github.com/kubrakurt/data_analysis_resource)
-* [3. Veri Görselleştirme](https://github.com/kubrakurt/data_visualization_resource)
+* [2. Makine Öğrenmesi](https://github.com/kubrakurt/machine_learning_resource)
+* [3. Veri Analizi](https://github.com/kubrakurt/data_analysis_resource)
+* [4. Veri Görselleştirme](https://github.com/kubrakurt/data_visualization_resource)
