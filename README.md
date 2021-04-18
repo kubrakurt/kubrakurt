@@ -7,7 +7,7 @@
 
 
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&color=111111)](https://www.linkedin.com/in/kubrakurtk/)
-[![](https://img.shields.io/badge/Medium-%2312100E.svg?&style=for-the-badge&logo=medium&theme=dark)](https://kubrakurt.medium.com/)
+[![](https://img.shields.io/badge/Medium-%2312100E.svg?&style=for-the-badge&logo=medium&theme=dark)](https://kubrakurt.medium.com)
 [![](https://img.shields.io/badge/Kaggle-%2312100E.svg?&style=for-the-badge&logo=kaggle&theme=dark)](https://www.kaggle.com/kubrakurt)
 [![](https://img.shields.io/badge/Twitter-%2312100E.svg?&style=for-the-badge&logo=twitter&theme=dark)](https://twitter.com/kubrakurtk)
 [![](https://img.shields.io/badge/Instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&theme=dark)](https://www.instagram.com/kubrakurtk/)
