@@ -36,9 +36,12 @@
 </details>
 
 
+
+<br/>
+
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mertbozkir&show_icons=true&theme=tokyonight" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=mertbozkir&theme=tokyonight" />
-</p>
-<br/>
+
  [![Mert's github activity graph](https://activity-graph.herokuapp.com/graph?username=mertbozkir&theme=xcode)](https://git.io/mertbozkir)
+</p>
