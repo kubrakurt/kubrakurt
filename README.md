@@ -28,10 +28,10 @@
 
 <details><summary>🔍 Resources</summary>
 
-* [1. Data Analysis](https://github.com/kubrakurt/data_analysis_resource)
-* [2. Data Visualization](https://github.com/kubrakurt/data_visualization_resource)
-* [3. Machine Learning](https://github.com/kubrakurt/machine_learning_resource)
-* [4. Natural Language Processing](https://github.com/kubrakurt/natural_language_processing_resource)
+- [1. Data Analysis](https://github.com/kubrakurt/data_analysis_resource)
+- [2. Data Visualization](https://github.com/kubrakurt/data_visualization_resource)
+- [3. Machine Learning](https://github.com/kubrakurt/machine_learning_resource)
+- [4. Natural Language Processing](https://github.com/kubrakurt/natural_language_processing_resource)
 
 </details>
 
