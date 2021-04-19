@@ -1,13 +1,11 @@
 <h1 align="center"> Hi <img width="32" src="https://raw.githubusercontent.com/fatiiates/fatiiates/main/wave.gif"/>, I'm Kübra 
 <h3 align="center"> Data Analyst at ENBIOSIS Biotechnology, Statistics at Marmara University </h3>
 
-- 🔭 I’m currently working on **Machine Learning, Deep Learning, Data Analysis**
+- 🔭 I’m currently working on **Machine Learning, Deep Learning, Natural Language Processing, Data Analysis**
 
 - 🌱 I’m currently learning **Keras, Tensorflow, Imagine Processing, OpenCV, Flask, Django, StyleGAN, Deep Learning**
 
 - 📝 I regularly write articles on [**https://kubrakurt.medium.com**](https://kubrakurt.medium.com)
-
-- 💬 Ask me about **Machine Learning, Natural Language Processing, Data Analysis**
 
 - 📫 How to reach me **kubrakurtt98@gmail.com**
 
