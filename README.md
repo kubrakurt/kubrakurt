@@ -20,7 +20,7 @@
 ![Kübra Kurt Github's Stats](https://github-readme-stats.vercel.app/api?username=kubrakurt&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kubrakurt&theme=tokyonight)
 
-<details><summary>**Projects**</summary>
+<details><summary>Projects</summary>
 
 * [1. IRIS Visualization and Classification](https://github.com/kubrakurt/iris_visualization_and_classification)
 * [2. LightGBM Model](https://github.com/kubrakurt/lightgbm_model)
@@ -31,10 +31,11 @@
 
 </details>
 
-<details><summary>**Resources**</summary>
+<details><summary>Resources</summary>
 
 * [1. Data Analysis](https://github.com/kubrakurt/data_analysis_resource)
 * [2. Data Visualization](https://github.com/kubrakurt/data_visualization_resource)
 * [3. Machine Learning](https://github.com/kubrakurt/machine_learning_resource)
 * [4. Natural Language Processing](https://github.com/kubrakurt/natural_language_processing_resource)
 
+</details>
