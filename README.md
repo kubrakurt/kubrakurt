@@ -17,28 +17,24 @@
 [![](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/kubrakurtk)
 [![](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kubrakurtk/)
 
+![Kübra Kurt Github's Stats](https://github-readme-stats.vercel.app/api?username=kubrakurt&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kubrakurt&theme=tokyonight)
 
- ![Kübra Kurt Github's Stats](https://github-readme-stats.vercel.app/api?username=kubrakurt&show_icons=true&theme=tokyonight)
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kubrakurt&theme=tokyonight)
- 
-<img align='center' src="https://github-readme-stats.vercel.app/api?username=kubrakurt&show_icons=true">
+<details><summary>**Projects**</summary>
 
-<details><summary>İstatistikler</summary>
-
-## Projeler
-
-* [1. IRIS Görselleştirme ve Sınıflandırma](https://github.com/kubrakurt/iris_visualization_and_classification)
+* [1. IRIS Visualization and Classification](https://github.com/kubrakurt/iris_visualization_and_classification)
 * [2. LightGBM Model](https://github.com/kubrakurt/lightgbm_model)
-* [3. Öneri Sistemleri](https://github.com/kubrakurt/recommendation_systems)
-* [4. Python ile Film Yorumlarının Duygu Analizi](https://github.com/kubrakurt/turkish_movie_sentiment_analysis)
-* [5. Python ile Metin Ön İşleme, WordCloud & Word2Vec Model](https://github.com/kubrakurt/word2vec_model)
-* [6. Python ile Vikipedi & Haber Sitelerinden Metin Kazıma](https://github.com/kubrakurt/python_text_scraping)
+* [3. Movie Comments Sentiment Analysis with Python](https://github.com/kubrakurt/turkish_movie_sentiment_analysis)
+* [4. Recommendation System](https://github.com/kubrakurt/recommendation_systems)
+* [5. Scraping Text from Wikipedia and News Websites with Python](https://github.com/kubrakurt/python_text_scraping)
+* [6. Text Preprocessing, WordCloud & Word2Vec Model with Python](https://github.com/kubrakurt/word2vec_model)
 
 </details>
 
-## Kaynaklar
+<details><summary>**Resources**</summary>
 
-* [1. Doğal Dil İşleme](https://github.com/kubrakurt/natural_language_processing_resource)
-* [2. Makine Öğrenmesi](https://github.com/kubrakurt/machine_learning_resource)
-* [3. Veri Analizi](https://github.com/kubrakurt/data_analysis_resource)
-* [4. Veri Görselleştirme](https://github.com/kubrakurt/data_visualization_resource)
+* [1. Data Analysis](https://github.com/kubrakurt/data_analysis_resource)
+* [2. Data Visualization](https://github.com/kubrakurt/data_visualization_resource)
+* [3. Machine Learning](https://github.com/kubrakurt/machine_learning_resource)
+* [4. Natural Language Processing](https://github.com/kubrakurt/natural_language_processing_resource)
+
