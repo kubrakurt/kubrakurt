@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Keras, Tensorflow, Imagine Processing, OpenCV, Flask, Django, StyleGAN, Deep Learning**
 
-- 📝 I regularly write articles on **[https://kubrakurt.medium.com]**(https://kubrakurt.medium.com)
+- 📝 I regularly write articles on [**https://kubrakurt.medium.com**](https://kubrakurt.medium.com)
 
 - 💬 Ask me about **Machine Learning, Natural Language Processing, Data Analysis**
 
