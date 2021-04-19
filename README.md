@@ -15,18 +15,18 @@
 [![](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/kubrakurtk)
 [![](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kubrakurtk/)
 
-* <details><summary>📈 Projects</summary> 
+<details><summary>📈 Projects</summary> 
 
-[1. IRIS Visualization and Classification](https://github.com/kubrakurt/iris_visualization_and_classification)
-[2. LightGBM Model](https://github.com/kubrakurt/lightgbm_model)
-[3. Movie Comments Sentiment Analysis with Python](https://github.com/kubrakurt/turkish_movie_sentiment_analysis)
-[4. Recommendation System](https://github.com/kubrakurt/recommendation_systems)
-[5. Scraping Text from Wikipedia and News Websites with Python](https://github.com/kubrakurt/python_text_scraping)
-[6. Text Preprocessing, WordCloud & Word2Vec Model with Python](https://github.com/kubrakurt/word2vec_model)
+* [1. IRIS Visualization and Classification](https://github.com/kubrakurt/iris_visualization_and_classification)
+* [2. LightGBM Model](https://github.com/kubrakurt/lightgbm_model)
+* [3. Movie Comments Sentiment Analysis with Python](https://github.com/kubrakurt/turkish_movie_sentiment_analysis)
+* [4. Recommendation System](https://github.com/kubrakurt/recommendation_systems)
+* [5. Scraping Text from Wikipedia and News Websites with Python](https://github.com/kubrakurt/python_text_scraping)
+* [6. Text Preprocessing, WordCloud & Word2Vec Model with Python](https://github.com/kubrakurt/word2vec_model)
 
 </details>
 
-* <details><summary>🔍 Resources</summary>
+<details><summary>🔍 Resources</summary>
 
 * [1. Data Analysis](https://github.com/kubrakurt/data_analysis_resource)
 * [2. Data Visualization](https://github.com/kubrakurt/data_visualization_resource)
@@ -35,7 +35,7 @@
 
 </details>
 
-* <details><summary>📚 Latest Blog Posts</summary>
+<details><summary>📚 Latest Blog Posts</summary>
 
 * [1. Python ile Film Yorumlarının Duygu Analizi](https://medium.com/deeplab-tech/python-ile-film-yorumlarının-duygu-analizi-250870ee175c)
 * [2. Python ile Metin Ön İşleme, WordCloud & Word2Vec Model](https://medium.com/deeplab-tech/python-ile-metin-ön-i̇şleme-wordcloud-word2vec-model-87b3e84abdfd)
