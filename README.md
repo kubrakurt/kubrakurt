@@ -15,9 +15,6 @@
 [![](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/kubrakurtk)
 [![](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kubrakurtk/)
 
-![Kübra Kurt Github's Stats](https://github-readme-stats.vercel.app/api?username=kubrakurt&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kubrakurt&theme=tokyonight)
-
 <details><summary>Projects</summary>
 
 * [1. IRIS Visualization and Classification](https://github.com/kubrakurt/iris_visualization_and_classification)
@@ -37,3 +34,10 @@
 * [4. Natural Language Processing](https://github.com/kubrakurt/natural_language_processing_resource)
 
 </details>
+
+<br/>  
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=kubrakurt&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=kubrakurt&theme=tokyonight" />
+  [![Kübra's Github Activity graph](https://activity-graph.herokuapp.com/graph?username=kubrakurt&theme=xcode)](https://git.io/kubrakurt)
+<p align="center">
+</p>
