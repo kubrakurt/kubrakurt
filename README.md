@@ -17,13 +17,13 @@
 [![](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/kubrakurtk)
 [![](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kubrakurtk/)
 
-<details><summary>İstatistikler</summary>
- 
+
  ![Kübra Kurt Github's Stats](https://github-readme-stats.vercel.app/api?username=kubrakurt&show_icons=true&theme=tokyonight)
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kubrakurt&theme=tokyonight)
-</details>
  
 <img align='center' src="https://github-readme-stats.vercel.app/api?username=kubrakurt&show_icons=true">
+
+<details><summary>İstatistikler</summary>
 
 ## Projeler
 
@@ -33,6 +33,8 @@
 * [4. Python ile Film Yorumlarının Duygu Analizi](https://github.com/kubrakurt/turkish_movie_sentiment_analysis)
 * [5. Python ile Metin Ön İşleme, WordCloud & Word2Vec Model](https://github.com/kubrakurt/word2vec_model)
 * [6. Python ile Vikipedi & Haber Sitelerinden Metin Kazıma](https://github.com/kubrakurt/python_text_scraping)
+
+</details>
 
 ## Kaynaklar
 
