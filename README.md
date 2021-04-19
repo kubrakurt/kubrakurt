@@ -11,6 +11,12 @@
 
 - 📫 How to reach me **kubrakurtt98@gmail.com**
 
+<p align="center">
+<a href="https://twitter.com/kubrakurtk" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="kubrakurtk" height="30" width="30" /></a>
+<a href="https://www.kaggle.com/kubrakurt" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="kubrakurt" height="30" width="30" /></a>
+<a href="https://kubrakurt.medium.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@kubrakurt" height="30" width="30" /></a>
+</p>
+
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&color=111111)](https://www.linkedin.com/in/kubrakurtk/)
 [![](https://img.shields.io/badge/Medium-%2312100E.svg?&style=for-the-badge&logo=medium&theme=dark)](https://kubrakurt.medium.com)
 [![](https://img.shields.io/badge/Kaggle-%2312100E.svg?&style=for-the-badge&logo=kaggle&theme=dark)](https://www.kaggle.com/kubrakurt)
