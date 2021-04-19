@@ -1,10 +1,15 @@
 <h1 align="center"> Hi <img width="32" src="https://raw.githubusercontent.com/fatiiates/fatiiates/main/wave.gif"/>, I'm Kübra </h1>
-<h3 align="center"> Data Analyst at ENBIOSIS Biotechnology | Statistics at Marmara University </h3>
+<h3 align="center"> Data Analyst at ENBIOSIS Biotechnology, Statistics at Marmara University </h3>
 
-- 🔭 I’m currently working on **Data Science**
-- 🌱 I’m currently learning **Data Science, Machine Learning, Deep Learning, Natural Language Processing**
-- 📫 How to reach me: kubrakurtt98@gmail.com
+- 🔭 I’m currently working on **Machine Learning, Deep Learning, Data Analysis**
 
+- 🌱 I’m currently learning **Keras, Tensorflow, Imagine Processing, OpenCV, Flask, Django, StyleGAN, Deep Learning**
+
+- 📝 I regularly write articles on [https://kubrakurt.medium.com](https://kubrakurt.medium.com)
+
+- 💬 Ask me about **Machine Learning, Natural Language Processing, Data Analysis**
+
+- 📫 How to reach me **kubrakurtt98@gmail.com**
 
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&color=111111)](https://www.linkedin.com/in/kubrakurtk/)
 [![](https://img.shields.io/badge/Medium-%2312100E.svg?&style=for-the-badge&logo=medium&theme=dark)](https://kubrakurt.medium.com)
@@ -14,7 +19,7 @@
   
 </a> <a href = "https://github.com/kubrakurt">
   <img align = "center" 
-       src = "https://github-readme-stats.vercel.app/api?username=kubrakurt&show_icons=true&theme=dark" alt = "kubrakurt's GitHub Stats" />
+       src = "https://github-readme-stats.vercel.app/api?username=kubrakurt&show_icons=true&theme=light" alt = "kubrakurt's GitHub Stats" />
  
 ## Projeler
 
