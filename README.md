@@ -15,7 +15,7 @@
 [![](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/kubrakurtk)
 [![](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kubrakurtk/)
 
-<details><summary>📈 Projects</summary> 
+* <details><summary>📈 Projects</summary> 
 
 * [1. IRIS Visualization and Classification](https://github.com/kubrakurt/iris_visualization_and_classification)
 * [2. LightGBM Model](https://github.com/kubrakurt/lightgbm_model)
@@ -26,16 +26,16 @@
 
 </details>
 
-<details><summary>🔍 Resources</summary>
+* <details><summary>🔍 Resources</summary>
 
-- [1. Data Analysis](https://github.com/kubrakurt/data_analysis_resource)
-- [2. Data Visualization](https://github.com/kubrakurt/data_visualization_resource)
-- [3. Machine Learning](https://github.com/kubrakurt/machine_learning_resource)
-- [4. Natural Language Processing](https://github.com/kubrakurt/natural_language_processing_resource)
+* [1. Data Analysis](https://github.com/kubrakurt/data_analysis_resource)
+* [2. Data Visualization](https://github.com/kubrakurt/data_visualization_resource)
+* [3. Machine Learning](https://github.com/kubrakurt/machine_learning_resource)
+* [4. Natural Language Processing](https://github.com/kubrakurt/natural_language_processing_resource)
 
 </details>
 
-<details><summary>📚 Latest Blog Posts</summary>
+* <details><summary>📚 Latest Blog Posts</summary>
 
 * [1. Python ile Film Yorumlarının Duygu Analizi](https://medium.com/deeplab-tech/python-ile-film-yorumlarının-duygu-analizi-250870ee175c)
 * [2. Python ile Metin Ön İşleme, WordCloud & Word2Vec Model](https://medium.com/deeplab-tech/python-ile-metin-ön-i̇şleme-wordcloud-word2vec-model-87b3e84abdfd)
