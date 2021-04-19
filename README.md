@@ -22,6 +22,7 @@
        src = "https://github-readme-stats.vercel.app/api?username=kubrakurt&show_icons=true&theme=light" alt = "kubrakurt's GitHub Stats" />
  
 <img align='center' src="https://github-readme-stats.vercel.app/api?username=kubrakurt&show_icons=true">
+
 ## Projeler
 
 * [1. IRIS Görselleştirme ve Sınıflandırma](https://github.com/kubrakurt/iris_visualization_and_classification)
