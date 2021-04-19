@@ -38,6 +38,6 @@
 <br/>  
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=kubrakurt&show_icons=true&theme=tokyonight" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=kubrakurt&theme=tokyonight" />
-  [![Kübra's Github Activity graph](https://activity-graph.herokuapp.com/graph?username=kubrakurt&theme=xcode)](https://git.io/kubrakurt)
+   [![Kübra's Github Activity graph](https://activity-graph.herokuapp.com/graph?username=kubrakurt&theme=xcode)](https://git.io/kubrakurt)
 <p align="center">
 </p>
