@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Machine Learning, Deep Learning, Natural Language Processing, Data Analysis**
 
-- 🌱 I’m currently learning **Keras, Tensorflow, Imagine Processing, OpenCV, Flask, Django, StyleGAN, Deep Learning**
+- 🌱 I’m currently learning **Keras, Tensorflow, Deep Learning, Imagine Processing, OpenCV, Flask, Django, StyleGAN**
 
 - 📝 I regularly write articles on [**https://kubrakurt.medium.com**](https://kubrakurt.medium.com)
 
