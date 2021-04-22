@@ -17,12 +17,13 @@
 
 <details><summary>📈 Projects</summary> 
 
-* [1. IRIS Visualization and Classification](https://github.com/kubrakurt/iris_visualization_and_classification)
-* [2. LightGBM Model](https://github.com/kubrakurt/lightgbm_model)
-* [3. Movie Comments Sentiment Analysis with Python](https://github.com/kubrakurt/turkish_movie_sentiment_analysis)
-* [4. Recommendation System](https://github.com/kubrakurt/recommendation_systems)
-* [5. Scraping Text from Wikipedia and News Websites with Python](https://github.com/kubrakurt/python_text_scraping)
-* [6. Text Preprocessing, WordCloud & Word2Vec Model with Python](https://github.com/kubrakurt/word2vec_model)
+* [1. Cosine Similarity Algorithm and Book Suggestion Application](https://github.com/kubrakurt/cosine_similarity)
+* [2. IRIS Visualization and Classification](https://github.com/kubrakurt/iris_visualization_and_classification)
+* [3. LightGBM Model](https://github.com/kubrakurt/lightgbm_model)
+* [4. Movie Comments Sentiment Analysis with Python](https://github.com/kubrakurt/turkish_movie_sentiment_analysis)
+* [5. Recommendation System](https://github.com/kubrakurt/recommendation_systems)
+* [6. Scraping Text from Wikipedia and News Websites with Python](https://github.com/kubrakurt/python_text_scraping)
+* [7. Text Preprocessing, WordCloud & Word2Vec Model with Python](https://github.com/kubrakurt/word2vec_model)
 
 </details>
 
