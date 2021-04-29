@@ -23,6 +23,8 @@
 [![](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kubrakurtk/) 
 [![](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/kubrakurtk?si=N7svsad2RRO2PEHvjkT8bw)
 
+<img align="right" src="https://media.giphy.com/media/QTmfvHGklosY1ha87W/source.gif" style="width: 100px;">
+
 <details><summary>📈 Projects</summary> 
 
 * [1. Cosine Similarity Algorithm and Book Suggestion Application](https://github.com/kubrakurt/cosine_similarity)
