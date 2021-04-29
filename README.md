@@ -9,7 +9,10 @@
 
 - 📝 I regularly write articles on [**https://kubrakurt.medium.com**](https://kubrakurt.medium.com)
 
-- 📫 How to reach me **kubrakurtt98@gmail.com** \n
+- 📫 How to reach me **kubrakurtt98@gmail.com**
+
+\\
+\\
 
 [![](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://kubrakurt.medium.com)
 [![](https://img.shields.io/badge/Kaggle-%2312100E.svg?&style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/kubrakurt)
