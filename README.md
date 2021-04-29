@@ -62,7 +62,7 @@
    <img src="https://media.giphy.com/media/SU2ic3wTfuC6JhD1lA/giphy.gif" width="50">
    <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="100">
    <img src="https://media.giphy.com/media/SsCYf6DRFJrOpP0IoM/giphy.gif" width="70">
-   <iframe src="https://giphy.com/embed/gjrOAylhpZm3dLnO5J" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/actworkcomunicacao-creative-criatividade-actwork-gjrOAylhpZm3dLnO5J">via GIPHY</a></p>
+   <img src="https://media.giphy.com/media/gjrOAylhpZm3dLnO5J/source.gif" width="70">
   <p>
 </div> 
 
