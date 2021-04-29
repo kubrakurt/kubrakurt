@@ -53,3 +53,5 @@
   
  [![Kübra's github activity graph](https://activity-graph.herokuapp.com/graph?username=kubrakurt&theme=react-dark)](https://git.io/kubrakurt)
 </p>
+
+<img src="https://github.com/hargun79/hargun79/blob/master/Assets/hi.gif" style="width: 100px;">
