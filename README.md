@@ -2,8 +2,8 @@
 <h3 align="center"> Data Analyst at ENBIOSIS Biotechnology, Statistics at Marmara University </h3>
 
 <img align="right" src="https://github.com/hargun79/hargun79/blob/master/Assets/hi.gif" style="width: 100px;">
-
-[![Spotify Badge](https://img.shields.io/badge/-Spotify-1db954?style=flat-square&labelColor=1db954&logo=spotify&logoColor=white&link=https://open.spotify.com/user/kubrakurtk?si=N7svsad2RRO2PEHvjkT8bw), align = "center"](https://open.spotify.com/user/kubrakurtk?si=N7svsad2RRO2PEHvjkT8bw)
+<img align="right"
+[![Spotify Badge](https://img.shields.io/badge/-Spotify-1db954?style=flat-square&labelColor=1db954&logo=spotify&logoColor=white&link=https://open.spotify.com/user/kubrakurtk?si=N7svsad2RRO2PEHvjkT8bw)](https://open.spotify.com/user/kubrakurtk?si=N7svsad2RRO2PEHvjkT8bw)>
 
 - 🔭 I’m currently working on **Machine Learning, Deep Learning, Natural Language Processing, Data Analysis**
 
