@@ -13,10 +13,10 @@
 
 - 📫 How to reach me **kubrakurtt98@gmail.com**
 
+<img align="right" src="https://media.giphy.com/media/LoBSGLlkRVWnd6SdxN/giphy.gif" width="160">
+
  <br />
   <br />
-
-<img align="right" src="https://media.giphy.com/media/LoBSGLlkRVWnd6SdxN/giphy.gif" width="160">
 
 [![](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://kubrakurt.medium.com)
 [![](https://img.shields.io/badge/Kaggle-%2312100E.svg?&style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/kubrakurt)
