@@ -50,6 +50,13 @@
 
 </details>
 
+<div>
+  <h3> 💻 Languages and Tools </h3>
+  <p>
+   <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="50"><img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="50"><img src="https://media.giphy.com/media/SU2ic3wTfuC6JhD1lA/giphy.gif" width="50"><img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="100"><img src="https://media.giphy.com/media/SsCYf6DRFJrOpP0IoM/giphy.gif" width="70">
+  <p>
+</div> 
+
 <br/>
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=kubrakurt&show_icons=true&theme=tokyonight" />
