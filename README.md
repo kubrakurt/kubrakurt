@@ -15,15 +15,15 @@
 
  <br />
   <br />
-     
+
+<img align="right" src="https://media.giphy.com/media/LoBSGLlkRVWnd6SdxN/giphy.gif" width="160">
+
 [![](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://kubrakurt.medium.com)
 [![](https://img.shields.io/badge/Kaggle-%2312100E.svg?&style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/kubrakurt)
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kubrakurtk/)
 [![](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/kubrakurtk)
 [![](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kubrakurtk/) 
 [![](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/kubrakurtk?si=N7svsad2RRO2PEHvjkT8bw)
-
-<img align="right" src="https://media.giphy.com/media/LoBSGLlkRVWnd6SdxN/giphy.gif" width="160">
 
 <details><summary>📈 Projects</summary> 
 
@@ -67,7 +67,7 @@
    <img src="https://media.giphy.com/media/MaI6BylfjAkDkfk4OC/source.gif" width="70">
    <img src="https://media.giphy.com/media/gjrOAylhpZm3dLnO5J/source.gif" width="80">
    <img src="https://media.giphy.com/media/U4MJ0KpWxlHBJrQH5g/giphy.gif" width="80">
-   <img src="https://media.giphy.com/media/H7f5ZGjvKXBaLbBigO/source.gif" width="80">
+   <img src="https://media.giphy.com/media/H7f5ZGjvKXBaLbBigO/source.gif" width="90">
    <img src="https://media.giphy.com/media/SsCYf6DRFJrOpP0IoM/giphy.gif" width="70">
    
   <p>
