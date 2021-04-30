@@ -1,4 +1,4 @@
-<h1 align="center"> Hi, I'm Kübra 
+<h1 align="center"> Hi, I'm Kübra! </h1>
 <h3 align="center"> Data Analyst at ENBIOSIS Biotechnology, Statistics at Marmara University </h3>
 
 <br />
