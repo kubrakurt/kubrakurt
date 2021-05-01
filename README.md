@@ -48,11 +48,13 @@
 
 <details><summary>📚 Latest Blog Posts</summary>
 
-* [1. Python ile Film Yorumlarının Duygu Analizi](https://medium.com/deeplab-tech/python-ile-film-yorumlarının-duygu-analizi-250870ee175c)
-* [2. Python ile Metin Ön İşleme, WordCloud & Word2Vec Model](https://medium.com/deeplab-tech/python-ile-metin-ön-i̇şleme-wordcloud-word2vec-model-87b3e84abdfd)
-* [3. Python ile Vikipedi & Haber Sitelerinden Metin Kazıma](https://medium.com/deeplab-tech/python-ile-vikipedi-haber-sitelerinden-metin-kazıma-7a64f2e0e3a2)
-* [4. Python ile Öneri Sistemleri](https://medium.com/kaveai/öneri-sistemleri-recommendation-systems-9c4d981d1750)
-* [5. Matematiği ve Python Uygulamasıyla LightGBM](https://medium.com/kaveai/matematiği-ve-python-uygulamasıyla-lightgbm-hafif-gradyan-artırma-makinesi-18d2f12e7870)
+* [1. Kosinüs Benzerlik Algoritması ve Kitap Önerisi Uygulaması](https://medium.com/deeplab-tech/kosinüs-benzerlik-algoritması-ve-kitap-önerileri-5123cf7c54c1)
+* [2. Matematiği ve Python Uygulamasıyla LightGBM](https://medium.com/kaveai/matematiği-ve-python-uygulamasıyla-lightgbm-hafif-gradyan-artırma-makinesi-18d2f12e7870)
+* [3. Python ile Film Yorumlarının Duygu Analizi](https://medium.com/deeplab-tech/python-ile-film-yorumlarının-duygu-analizi-250870ee175c)
+* [4. Python ile Metin Ön İşleme, WordCloud & Word2Vec Model](https://medium.com/deeplab-tech/python-ile-metin-ön-i̇şleme-wordcloud-word2vec-model-87b3e84abdfd)
+* [5. Python ile Vikipedi & Haber Sitelerinden Metin Kazıma](https://medium.com/deeplab-tech/python-ile-vikipedi-haber-sitelerinden-metin-kazıma-7a64f2e0e3a2)
+* [6. Python ile Öneri Sistemleri](https://medium.com/kaveai/öneri-sistemleri-recommendation-systems-9c4d981d1750)
+
 
 </details>
 
