@@ -4,7 +4,7 @@
 <br />
 
 <img align="right" src="https://github.com/hargun79/hargun79/blob/master/Assets/hi.gif" style="width: 50;">
-<img src="https://github.com/hargun79/hargun79/blob/master/Assets/hi.gif"   width="100">
+<img src="https://github.com/hargun79/hargun79/blob/master/Assets/hi.gif" width="200">
 
 
 - 🔭 I’m currently working on **Machine Learning, Deep Learning, Natural Language Processing, Data Analysis**
