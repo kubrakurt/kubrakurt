@@ -13,13 +13,13 @@
 
 - 📫 How to reach me **kubrakurtt98@gmail.com**
 
-<summary><h2 align="center">🔍 Resources</h2></summary>
-<details>
+<details><summary><h2 align="center">🔍 Resources</h2></summary>
 * [1. Data Analysis](https://github.com/kubrakurt/data_analysis_resources)
 * [2. Data Visualization](https://github.com/kubrakurt/data_visualization_resources)
 * [3. Machine Learning](https://github.com/kubrakurt/machine_learning_resources)
 * [4. Natural Language Processing](https://github.com/kubrakurt/natural_language_processing_resources)
 </details>
+
 <details><summary>📚 Latest Blog Posts</summary>
 
 * [1. Kosinüs Benzerlik Algoritması ve Kitap Önerisi Uygulaması](https://medium.com/deeplab-tech/kosinüs-benzerlik-algoritması-ve-kitap-önerileri-5123cf7c54c1)
