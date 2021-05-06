@@ -69,7 +69,7 @@
 
 </details>
 
-<details><summary><h3 align="center">🔍 Resources</h3></summary>
+<h3 align="center"><details></h3><summary><h3 align="center">🔍 Resources</h3></summary>
    
 <p align="center"> <a href="https://github.com/kubrakurt/data_analysis_resources">Data Analysis</a></p>
 <p align="center"> <a href="https://github.com/kubrakurt/data_visualization_resources">Data Visualization</a></p>
