@@ -3,7 +3,7 @@
 
 <br />
 
-<p align="right">
+<p align="center">
 <img src="https://github.com/hargun79/hargun79/blob/master/Assets/hi.gif" width="300">
 </p>
 
