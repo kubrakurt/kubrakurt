@@ -58,16 +58,7 @@
    <img src="https://media.giphy.com/media/SsCYf6DRFJrOpP0IoM/giphy.gif" width="80">
 </p>
 
-<details><summary><h2 align="center">🔍 Resources</h2></summary>
-   
-<p align="center"> <a href="https://github.com/kubrakurt/data_analysis_resources">Data Analysis</a></p>
-<p align="center"> <a href="https://github.com/kubrakurt/data_visualization_resources">Data Visualization</a></p>
-<p align="center"> <a href="https://github.com/kubrakurt/machine_learning_resources">Machine Learning</a></p>
-<p align="center"> <a href="https://github.com/kubrakurt/natural_language_processing_resources">Natural Language Processing</a></p>
-
-</details>
-
-<details><summary><h2 align="center">🔍 Resources</h2></summary>
+<details><summary><h3 align="center">Recent Medium Blog Posts</h3></summary>
    
 <p align="center"> <a href="https://medium.com/deeplab-tech/kosinüs-benzerlik-algoritması-ve-kitap-önerileri-5123cf7c54c1">Kosinüs Benzerlik Algoritması ve Kitap Önerisi Uygulaması</a></p>
 <p align="center"> <a href="https://medium.com/kaveai/matematiği-ve-python-uygulamasıyla-lightgbm-hafif-gradyan-artırma-makinesi-18d2f12e7870">Matematiği ve Python Uygulamasıyla LightGBM</a></p>
@@ -77,6 +68,17 @@
 <p align="center"> <a href="https://medium.com/kaveai/öneri-sistemleri-recommendation-systems-9c4d981d1750">Python ile Öneri Sistemleri</a></p>
 
 </details>
+
+<details><summary><h3 align="center">🔍 Resources</h3></summary>
+   
+<p align="center"> <a href="https://github.com/kubrakurt/data_analysis_resources">Data Analysis</a></p>
+<p align="center"> <a href="https://github.com/kubrakurt/data_visualization_resources">Data Visualization</a></p>
+<p align="center"> <a href="https://github.com/kubrakurt/machine_learning_resources">Machine Learning</a></p>
+<p align="center"> <a href="https://github.com/kubrakurt/natural_language_processing_resources">Natural Language Processing</a></p>
+
+</details>
+
+</br>
 
 <h2 align="center">GitHub Stats</h2>
 
