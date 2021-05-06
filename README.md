@@ -13,10 +13,6 @@
 
 - 📫 How to reach me **kubrakurtt98@gmail.com**
 
- <br />
-  <br />
-   <br />
-
 <h2 align="center">Connect With Me</h2>
 
 <div align="center">
