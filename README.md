@@ -3,7 +3,7 @@
 
 <br />
  
-<img align="right" src="https://github.com/hargun79/hargun79/blob/master/Assets/hi.gif" style="width: 100px;">
+<img align="right" src="https://github.com/hargun79/hargun79/blob/master/Assets/hi.gif" style="width: 80;">
   
 - 🔭 I’m currently working on **Machine Learning, Deep Learning, Natural Language Processing, Data Analysis**
 
@@ -15,6 +15,7 @@
 
  <br />
   <br />
+   <br />
 
 <p align="center">
  <a href="https://kubrakurt.medium.com"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=30></a>
