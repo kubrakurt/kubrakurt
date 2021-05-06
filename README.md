@@ -36,29 +36,6 @@
 <p align="center"> <a href="https://github.com/kubrakurt/python_text_scraping">Scraping Text from Wikipedia and News Websites with Python</a></p>
 <p align="center"> <a href="https://github.com/kubrakurt/word2vec_model">Text Preprocessing, WordCloud & Word2Vec Model with Python</a></p>
 
-</details>
-
-<details><summary>🔍 Resources</summary>
-
-* [1. Data Analysis](https://github.com/kubrakurt/data_analysis_resources)
-* [2. Data Visualization](https://github.com/kubrakurt/data_visualization_resources)
-* [3. Machine Learning](https://github.com/kubrakurt/machine_learning_resources)
-* [4. Natural Language Processing](https://github.com/kubrakurt/natural_language_processing_resources)
-
-</details>
-
-<p align="center">
-<details><summary>📚 Latest Blog Posts</summary>
-
-* [1. Kosinüs Benzerlik Algoritması ve Kitap Önerisi Uygulaması](https://medium.com/deeplab-tech/kosinüs-benzerlik-algoritması-ve-kitap-önerileri-5123cf7c54c1)
-* [2. Matematiği ve Python Uygulamasıyla LightGBM](https://medium.com/kaveai/matematiği-ve-python-uygulamasıyla-lightgbm-hafif-gradyan-artırma-makinesi-18d2f12e7870)
-* [3. Python ile Film Yorumlarının Duygu Analizi](https://medium.com/deeplab-tech/python-ile-film-yorumlarının-duygu-analizi-250870ee175c)
-* [4. Python ile Metin Ön İşleme, WordCloud & Word2Vec Model](https://medium.com/deeplab-tech/python-ile-metin-ön-i̇şleme-wordcloud-word2vec-model-87b3e84abdfd)
-* [5. Python ile Vikipedi & Haber Sitelerinden Metin Kazıma](https://medium.com/deeplab-tech/python-ile-vikipedi-haber-sitelerinden-metin-kazıma-7a64f2e0e3a2)
-* [6. Python ile Öneri Sistemleri](https://medium.com/kaveai/öneri-sistemleri-recommendation-systems-9c4d981d1750)
-</details>
-</p>
-
 <p align="center">
    <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp"   width="50">
    <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="50">
@@ -70,6 +47,26 @@
    <img src="https://media.giphy.com/media/H7f5ZGjvKXBaLbBigO/source.gif" width="110">
    <img src="https://media.giphy.com/media/SsCYf6DRFJrOpP0IoM/giphy.gif" width="80">
 </p>
+
+</details>
+
+<details><summary>🔍 Resources</summary>
+
+* [1. Data Analysis](https://github.com/kubrakurt/data_analysis_resources)
+* [2. Data Visualization](https://github.com/kubrakurt/data_visualization_resources)
+* [3. Machine Learning](https://github.com/kubrakurt/machine_learning_resources)
+* [4. Natural Language Processing](https://github.com/kubrakurt/natural_language_processing_resources)
+
+</details>
+<details><summary>📚 Latest Blog Posts</summary>
+
+* [1. Kosinüs Benzerlik Algoritması ve Kitap Önerisi Uygulaması](https://medium.com/deeplab-tech/kosinüs-benzerlik-algoritması-ve-kitap-önerileri-5123cf7c54c1)
+* [2. Matematiği ve Python Uygulamasıyla LightGBM](https://medium.com/kaveai/matematiği-ve-python-uygulamasıyla-lightgbm-hafif-gradyan-artırma-makinesi-18d2f12e7870)
+* [3. Python ile Film Yorumlarının Duygu Analizi](https://medium.com/deeplab-tech/python-ile-film-yorumlarının-duygu-analizi-250870ee175c)
+* [4. Python ile Metin Ön İşleme, WordCloud & Word2Vec Model](https://medium.com/deeplab-tech/python-ile-metin-ön-i̇şleme-wordcloud-word2vec-model-87b3e84abdfd)
+* [5. Python ile Vikipedi & Haber Sitelerinden Metin Kazıma](https://medium.com/deeplab-tech/python-ile-vikipedi-haber-sitelerinden-metin-kazıma-7a64f2e0e3a2)
+* [6. Python ile Öneri Sistemleri](https://medium.com/kaveai/öneri-sistemleri-recommendation-systems-9c4d981d1750)
+</details>
 
 <br/>
 <p align="center">
