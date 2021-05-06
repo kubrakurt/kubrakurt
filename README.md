@@ -58,7 +58,7 @@
    <img src="https://media.giphy.com/media/SsCYf6DRFJrOpP0IoM/giphy.gif" width="80">
 </p>
 
-<details><summary><h3 align="center">Recent Medium Blog Posts</h3></summary>
+<h3 align="center"><details><summary>Recent Medium Blog Posts</summary>
    
 <p align="center"> <a href="https://medium.com/deeplab-tech/kosinüs-benzerlik-algoritması-ve-kitap-önerileri-5123cf7c54c1">Kosinüs Benzerlik Algoritması ve Kitap Önerisi Uygulaması</a></p>
 <p align="center"> <a href="https://medium.com/kaveai/matematiği-ve-python-uygulamasıyla-lightgbm-hafif-gradyan-artırma-makinesi-18d2f12e7870">Matematiği ve Python Uygulamasıyla LightGBM</a></p>
@@ -67,7 +67,7 @@
 <p align="center"> <a href="https://medium.com/deeplab-tech/python-ile-vikipedi-haber-sitelerinden-metin-kazıma-7a64f2e0e3a2">Python ile Vikipedi & Haber Sitelerinden Metin Kazıma</a></p>
 <p align="center"> <a href="https://medium.com/kaveai/öneri-sistemleri-recommendation-systems-9c4d981d1750">Python ile Öneri Sistemleri</a></p>
 
-</details>
+</details></h3>
 
 <h3 align="center"><details><summary>🔍 Resources</summary>
    
