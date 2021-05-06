@@ -86,3 +86,9 @@
   
  [![Kübra's github activity graph](https://activity-graph.herokuapp.com/graph?username=kubrakurt&theme=react-dark)](https://git.io/kubrakurt)
 </p>
+
+<br/>  
+
+<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=kubrakurtk&cover_image=true&theme=default" /></div>  
+
+<br/>
