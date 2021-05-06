@@ -16,8 +16,8 @@
  <br />
   <br />
    <br />
-   
-<h3 align="center"> Connect With Me   </h3>
+
+<h2 align="center">Connect With Me</h2>
 
 <div align="center">
 <a href="https://github.com/kubrakurt" target="_blank">
