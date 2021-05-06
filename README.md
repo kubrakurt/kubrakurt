@@ -13,8 +13,8 @@
 
 - 📫 How to reach me **kubrakurtt98@gmail.com**
 
-<details><summary>🔍 Resources</summary>
 <h2 align="center">📈 Projects</h2>
+<details><summary>🔍 Resources</summary>
 
 <p align="center"> <a href="https://github.com/kubrakurt/cosine_similarity">Computer Vision Fundamentals and OpenCV Overview</a></p>
 <p align="center"> <a href="https://github.com/kubrakurt/iris_visualization_and_classification">IRIS Visualization and Classification</a></p>
