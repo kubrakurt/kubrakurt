@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **kubrakurtt98@gmail.com**
 
-<h2 align="center"><details><summary>🔍 Resources
+<details><h2 align="center"><summary>🔍 Resources</h2>
 
 <p align="center"> <a href="https://github.com/kubrakurt/cosine_similarity">Computer Vision Fundamentals and OpenCV Overview</a></p>
 <p align="center"> <a href="https://github.com/kubrakurt/iris_visualization_and_classification">IRIS Visualization and Classification</a></p>
@@ -34,8 +34,7 @@
    <img src="https://media.giphy.com/media/H7f5ZGjvKXBaLbBigO/source.gif" width="110">
    <img src="https://media.giphy.com/media/SsCYf6DRFJrOpP0IoM/giphy.gif" width="80">
 </p>
-
-</details></summary></h2>
+</details>
 
 <details><summary>🔍 Resources</summary>
 
