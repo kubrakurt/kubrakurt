@@ -78,8 +78,6 @@
 
 </details></h3>
 
-</br>
-
 <h2 align="center">GitHub Stats</h2>
 
 <p align="center">
