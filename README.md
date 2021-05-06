@@ -39,15 +39,6 @@
 <img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
 </a>  
 </div>
-   
-<p align="center">
- <a href="https://kubrakurt.medium.com"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=30></a>
- <a href="https://www.kaggle.com/kubrakurt"><img src="https://img.shields.io/badge/Kaggle-%2312100E.svg?&style=for-the-badge&logo=kaggle&logoColor=white" height=30></a> 
- <a href="https://www.linkedin.com/in/kubrakurtk/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=30</a>
-  <a href="https://twitter.com/kubrakurtk"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=30></a>  
-  <a href="https://www.instagram.com/kubrakurtk/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=30></a>  
-  <a href="https://open.spotify.com/user/kubrakurtk?si=N7svsad2RRO2PEHvjkT8bw"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" height=30></a>  
-</p>
 
 <h2 align="center">📈 Projects</h2>
 
