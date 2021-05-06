@@ -26,15 +26,15 @@
   <a href="https://open.spotify.com/user/kubrakurtk?si=N7svsad2RRO2PEHvjkT8bw"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" height=30></a>  
 </p>
 
-<details><summary>📈 Projects</summary> 
+<h2 align="center">📈 Projects</h2>
 
-* [1. Cosine Similarity Algorithm and Book Suggestion Application](https://github.com/kubrakurt/cosine_similarity)
-* [2. IRIS Visualization and Classification](https://github.com/kubrakurt/iris_visualization_and_classification)
-* [3. LightGBM Model](https://github.com/kubrakurt/lightgbm_model)
-* [4. Movie Comments Sentiment Analysis with Python](https://github.com/kubrakurt/turkish_movie_sentiment_analysis)
-* [5. Recommendation System](https://github.com/kubrakurt/recommendation_systems)
-* [6. Scraping Text from Wikipedia and News Websites with Python](https://github.com/kubrakurt/python_text_scraping)
-* [7. Text Preprocessing, WordCloud & Word2Vec Model with Python](https://github.com/kubrakurt/word2vec_model)
+- [1. Cosine Similarity Algorithm and Book Suggestion Application](https://github.com/kubrakurt/cosine_similarity)
+- [2. IRIS Visualization and Classification](https://github.com/kubrakurt/iris_visualization_and_classification)
+- [3. LightGBM Model](https://github.com/kubrakurt/lightgbm_model)
+- [4. Movie Comments Sentiment Analysis with Python](https://github.com/kubrakurt/turkish_movie_sentiment_analysis)
+- [5. Recommendation System](https://github.com/kubrakurt/recommendation_systems)
+- [6. Scraping Text from Wikipedia and News Websites with Python](https://github.com/kubrakurt/python_text_scraping)
+- [7. Text Preprocessing, WordCloud & Word2Vec Model with Python](https://github.com/kubrakurt/word2vec_model)
 
 </details>
 
