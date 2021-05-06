@@ -1,5 +1,6 @@
 <p align="center">
 <img src="https://github.com/hargun79/hargun79/blob/master/Assets/hi.gif" width="300">
+<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=kubrakurtk&cover_image=true&theme=novatorem" /></div>  
 </p>
 
 <h1 align="center"> Hi, I'm Kübra! </h1>
@@ -86,9 +87,3 @@
   
  [![Kübra's github activity graph](https://activity-graph.herokuapp.com/graph?username=kubrakurt&theme=react-dark)](https://git.io/kubrakurt)
 </p>
-
-<br/>  
-
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=kubrakurtk&cover_image=true&theme=default" /></div>  
-
-<br/>
