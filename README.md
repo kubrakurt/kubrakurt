@@ -16,7 +16,7 @@
  <br />
   <br />
    <br />
-
+   
 <p align="center">
  <a href="https://kubrakurt.medium.com"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=30></a>
  <a href="https://www.kaggle.com/kubrakurt"><img src="https://img.shields.io/badge/Kaggle-%2312100E.svg?&style=for-the-badge&logo=kaggle&logoColor=white" height=30></a> 
@@ -27,6 +27,14 @@
 </p>
 
 <h2 align="center">📈 Projects</h2>
+
+<p align="center"> <a href="https://github.com/kubrakurt/cosine_similarity">Computer Vision Fundamentals and OpenCV Overview</a></p>
+<p align="center"> <a href="https://github.com/kubrakurt/iris_visualization_and_classification">IRIS Visualization and Classification</a></p>
+<p align="center"> <a href="https://github.com/kubrakurt/lightgbm_model">LightGBM Model</a></p>
+<p align="center"> <a href="https://github.com/kubrakurt/turkish_movie_sentiment_analysis">Movie Comments Sentiment Analysis with Python</a></p>
+<p align="center"> <a href="https://github.com/kubrakurt/recommendation_systems">Recommendation System</a></p>
+<p align="center"> <a href="https://github.com/kubrakurt/python_text_scraping">Scraping Text from Wikipedia and News Websites with Python</a></p>
+<p align="center"> <a href="https://github.com/kubrakurt/word2vec_model">Text Preprocessing, WordCloud & Word2Vec Model with Python</a></p>
 
 - [1. Cosine Similarity Algorithm and Book Suggestion Application](https://github.com/kubrakurt/cosine_similarity)
 - [2. IRIS Visualization and Classification](https://github.com/kubrakurt/iris_visualization_and_classification)
