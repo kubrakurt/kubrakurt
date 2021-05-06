@@ -58,6 +58,7 @@
 
 </details>
 
+<p align="center">
 <div>
   <p>
    <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp"   width="50">
@@ -71,7 +72,8 @@
    <img src="https://media.giphy.com/media/SsCYf6DRFJrOpP0IoM/giphy.gif" width="80">
    
   <p>
-</div> 
+</div>
+</p>
 
 <br/>
 <p align="center">
