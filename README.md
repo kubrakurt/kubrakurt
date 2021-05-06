@@ -60,7 +60,6 @@
 
 <p align="center">
 <div>
-  <p>
    <a <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp"   width="50"></a>
    <a <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="50"></a>
    <a <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/source.gif" width="50"></a>
@@ -70,8 +69,6 @@
    <a <img src="https://media.giphy.com/media/U4MJ0KpWxlHBJrQH5g/giphy.gif" width="80"></a>
    <a <img src="https://media.giphy.com/media/H7f5ZGjvKXBaLbBigO/source.gif" width="110"></a>
    <a <img src="https://media.giphy.com/media/SsCYf6DRFJrOpP0IoM/giphy.gif" width="80"></a>
-   
-  <p>
 </div>
 </p>
 
