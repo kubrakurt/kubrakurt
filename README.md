@@ -2,9 +2,9 @@
 <h3 align="center"> Data Analyst at ENBIOSIS Biotechnology, Statistics at Marmara University </h3>
 
 <br />
- 
+ <img src="https://github.com/hargun79/hargun79/blob/master/Assets/hi.gif"   width="50">
 <img align="right" src="https://github.com/hargun79/hargun79/blob/master/Assets/hi.gif" style="width: 50;">
-  <img align="right" src="https://github.com/hargun79/hargun79/blob/master/Assets/hi.gif" style=" width="50">
+
 - 🔭 I’m currently working on **Machine Learning, Deep Learning, Natural Language Processing, Data Analysis**
 
 - 🌱 I’m currently learning **Keras, Tensorflow, Deep Learning, Imagine Processing, OpenCV, Flask, Django, StyleGAN**
