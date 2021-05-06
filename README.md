@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **kubrakurtt98@gmail.com**
 
-<h2 align="center"><details><summary>🔍 Resources</summary></h2>
+<details><summary><h2 align="center">🔍 Resources</h2></summary>
 
 * [1. Data Analysis](https://github.com/kubrakurt/data_analysis_resources)
 * [2. Data Visualization](https://github.com/kubrakurt/data_visualization_resources)
