@@ -39,8 +39,6 @@
 </a>
 </div>
 
-href="https://open.spotify.com/user/7pzz5ih249aikab4uw0vm7bvz?si=d3f21181e4154cb5"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" height=30></a>
-
 <h2 align="center">📈 Projects</h2>
 
 <p align="center"> <a href="https://github.com/kubrakurt/cosine_similarity">Computer Vision Fundamentals and OpenCV Overview</a></p>
