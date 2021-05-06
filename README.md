@@ -3,7 +3,9 @@
 
 <br />
 
+<p align="right">
 <img src="https://github.com/hargun79/hargun79/blob/master/Assets/hi.gif" width="300">
+</p>
 
 - 🔭 I’m currently working on **Machine Learning, Deep Learning, Natural Language Processing, Data Analysis**
 
