@@ -78,7 +78,7 @@
    <img src="https://media.giphy.com/media/SsCYf6DRFJrOpP0IoM/giphy.gif" width="80">
 </p>
 
-<br/>
+<h2 align="center">GitHub Stats</h2>
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=kubrakurt&show_icons=true&theme=tokyonight" />
