@@ -7,7 +7,7 @@
 <h3 align="center"> Data Analyst at ENBIOSIS Biotechnology, Statistics at Marmara University </h3>
 
 <p align="center">🔭 I’m currently working on Machine Learning, Deep Learning, Natural Language Processing, Data Analysis</p>
-<p align="center">🌱 I’m currently learning <a>**Keras, Tensorflow, Deep Learning, Imagine Processing, OpenCV, Flask, Django, StyleGAN**</a></p>
+<p align="center">🌱 I’m currently learning Keras, Tensorflow, Deep Learning, Imagine Processing, OpenCV, Flask, Django, StyleGAN</a></p>
 <p align="center">📝 I regularly write articles on https://kubrakurt.medium.com</p>
 <p align="center">📫 How to reach me <a href = "mailto: kubrakurtt98@gmail.com">kubrakurtt98@gmail.com</a></p>
 
