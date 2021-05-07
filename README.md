@@ -32,17 +32,9 @@
 <a href="https://kubrakurt.medium.com" target="_blank">
 <img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
 </a>  
-<a href="https://open.spotify.com/user/kubrakurtk?si=22f4465065de4c36" target="_blank">
-<img src=https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=Spotify&logoColor=white" alt=Spotify style="margin-bottom: 5px;" />
-</a>
-                                                                                                                                               
-                                                                                                                                               
 <a href="https://open.spotify.com/user/kubrakurtk?si=22f4465065de4c36">
-<img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" alt=Spotify style="margin-bottom: 5px;" />                                                                                                                               
+<img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" alt=Spotify style="margin-bottom: 5px;" />
 </div>
-
-
-<a href="https://open.spotify.com/user/7pzz5ih249aikab4uw0vm7bvz?si=d3f21181e4154cb5"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" height=30></a>
 
 <h2 align="center">📈 Projects</h2>
 
