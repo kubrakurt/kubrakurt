@@ -50,6 +50,7 @@
 <p align="center"> <a href="https://github.com/kubrakurt/word2vec_model">Text Preprocessing, WordCloud & Word2Vec Model with Python</a></p>
 
 <p align="center">
+   
    <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp"   width="30">
    <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="30">
    <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/source.gif" width="30">
@@ -59,16 +60,28 @@
    <img src="https://media.giphy.com/media/U4MJ0KpWxlHBJrQH5g/giphy.gif" width="50">
    <img src="https://media.giphy.com/media/H7f5ZGjvKXBaLbBigO/source.gif" width="70">
    <img src="https://media.giphy.com/media/SsCYf6DRFJrOpP0IoM/giphy.gif" width="60">
+   
 </p>
 
 <h3 align="center"><details><summary>Recent Medium Blog Posts</summary>
    
-<p align="center"> <a href="https://medium.com/deeplab-tech/kosinüs-benzerlik-algoritması-ve-kitap-önerileri-5123cf7c54c1">Kosinüs Benzerlik Algoritması ve Kitap Önerisi Uygulaması</a></p>
-<p align="center"> <a href="https://medium.com/kaveai/matematiği-ve-python-uygulamasıyla-lightgbm-hafif-gradyan-artırma-makinesi-18d2f12e7870">Matematiği ve Python Uygulamasıyla LightGBM</a></p>
-<p align="center"> <a href="https://medium.com/deeplab-tech/python-ile-film-yorumlarının-duygu-analizi-250870ee175c">Python ile Film Yorumlarının Duygu Analizi</a></p>
-<p align="center"> <a href="https://medium.com/deeplab-tech/python-ile-metin-ön-i̇şleme-wordcloud-word2vec-model-87b3e84abdfd">Python ile Metin Ön İşleme, WordCloud & Word2Vec Model</a></p>
-<p align="center"> <a href="https://medium.com/deeplab-tech/python-ile-vikipedi-haber-sitelerinden-metin-kazıma-7a64f2e0e3a2">Python ile Vikipedi & Haber Sitelerinden Metin Kazıma</a></p>
-<p align="center"> <a href="https://medium.com/kaveai/öneri-sistemleri-recommendation-systems-9c4d981d1750">Python ile Öneri Sistemleri</a></p>
+   <p align="center">
+      <a href="https://medium.com/deeplab-tech/kosinüs-benzerlik-algoritması-ve-kitap-önerileri-5123cf7c54c1">Kosinüs Benzerlik Algoritması ve Kitap Önerisi Uygulaması</a>
+   </p>
+   <p align="center"> 
+      <a href="https://medium.com/kaveai/matematiği-ve-python-uygulamasıyla-lightgbm-hafif-gradyan-artırma-makinesi-18d2f12e7870">Matematiği ve Python Uygulamasıyla LightGBM</a>    </p>
+   <p align="center">
+      <a href="https://medium.com/deeplab-tech/python-ile-film-yorumlarının-duygu-analizi-250870ee175c">Python ile Film Yorumlarının Duygu Analizi</a>
+   </p>
+   <p align="center">
+      <a href="https://medium.com/deeplab-tech/python-ile-metin-ön-i̇şleme-wordcloud-word2vec-model-87b3e84abdfd">Python ile Metin Ön İşleme, WordCloud & Word2Vec Model</a>
+   </p>
+   <p align="center">
+      <a href="https://medium.com/deeplab-tech/python-ile-vikipedi-haber-sitelerinden-metin-kazıma-7a64f2e0e3a2">Python ile Vikipedi & Haber Sitelerinden Metin Kazıma</a>
+   </p>
+   <p align="center">
+      <a href="https://medium.com/kaveai/öneri-sistemleri-recommendation-systems-9c4d981d1750">Python ile Öneri Sistemleri</a>
+   </p>
 
 </details></h3>
 
@@ -84,8 +97,7 @@
 <h2 align="center">GitHub Stats</h2>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=kubrakurt&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=kubrakurt&theme=tokyonight" />
-  
- [![Kübra's github activity graph](https://activity-graph.herokuapp.com/graph?username=kubrakurt&theme=react-dark)](https://git.io/kubrakurt)
+   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=kubrakurt&show_icons=true&theme=tokyonight" />
+   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=kubrakurt&theme=tokyonight" />
+   [![Kübra's github activity graph](https://activity-graph.herokuapp.com/graph?username=kubrakurt&theme=react-dark)](https://git.io/kubrakurt)
 </p>
