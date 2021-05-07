@@ -33,7 +33,7 @@
 <img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
 </a>  
 <a href="https://open.spotify.com/user/kubrakurtk?si=22f4465065de4c36" target="_blank">
-<img src=https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=Spotify&logoColor=white" alt=spotify style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=Spotify&logoColor=white" alt=Spotify style="margin-bottom: 5px;" />
 </a>
 </div>
 
