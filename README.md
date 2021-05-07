@@ -8,13 +8,13 @@
 
 <p align="center">
    
-- 🔭 I’m currently working on **Machine Learning, Deep Learning, Natural Language Processing, Data Analysis**
+🔭 I’m currently working on **Machine Learning, Deep Learning, Natural Language Processing, Data Analysis**
 
-- 🌱 I’m currently learning **Keras, Tensorflow, Deep Learning, Imagine Processing, OpenCV, Flask, Django, StyleGAN**
+🌱 I’m currently learning **Keras, Tensorflow, Deep Learning, Imagine Processing, OpenCV, Flask, Django, StyleGAN**
 
-- 📝 I regularly write articles on [**https://kubrakurt.medium.com**](https://kubrakurt.medium.com)
+📝 I regularly write articles on [**https://kubrakurt.medium.com**](https://kubrakurt.medium.com)
 
-- 📫 How to reach me **kubrakurtt98@gmail.com**
+📫 How to reach me **kubrakurtt98@gmail.com**
 
 </p>
 
