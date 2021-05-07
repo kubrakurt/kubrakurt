@@ -63,7 +63,7 @@
    
 </p>
 
-<h3 align="center"><details><summary>Recent Medium Blog Posts</summary>
+<h2 align="center"><details><summary>Recent Medium Blog Posts</summary>
    
    <p align="center">
       <a href="https://medium.com/deeplab-tech/kosinüs-benzerlik-algoritması-ve-kitap-önerileri-5123cf7c54c1">Kosinüs Benzerlik Algoritması ve Kitap Önerisi Uygulaması</a>
@@ -83,16 +83,16 @@
       <a href="https://medium.com/kaveai/öneri-sistemleri-recommendation-systems-9c4d981d1750">Python ile Öneri Sistemleri</a>
    </p>
 
-</details></h3>
+</details></h2>
 
-<h3 align="center"><details><summary>🔍 Resources</summary>
+<h2 align="center"><details><summary>🔍 Resources</summary>
    
 <p align="center"> <a href="https://github.com/kubrakurt/data_analysis_resources">Data Analysis</a></p>
 <p align="center"> <a href="https://github.com/kubrakurt/data_visualization_resources">Data Visualization</a></p>
 <p align="center"> <a href="https://github.com/kubrakurt/machine_learning_resources">Machine Learning</a></p>
 <p align="center"> <a href="https://github.com/kubrakurt/natural_language_processing_resources">Natural Language Processing</a></p>
 
-</details></h3>
+</details></h2>
 
 <h2 align="center">GitHub Stats</h2>
 
