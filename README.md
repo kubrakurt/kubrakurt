@@ -38,7 +38,6 @@
 
 <h2 align="center">📈 Projects</h2>
 
-<p align="center"> <a href="https://github.com/kubrakurt/cosine_similarity">Computer Vision Fundamentals and OpenCV Overview</a></p>
 <p align="center"> <a href="https://github.com/kubrakurt/iris_visualization_and_classification">IRIS Visualization and Classification</a></p>
 <p align="center"> <a href="https://github.com/kubrakurt/lightgbm_model">LightGBM Model</a></p>
 <p align="center"> <a href="https://github.com/kubrakurt/turkish_movie_sentiment_analysis">Movie Comments Sentiment Analysis with Python</a></p>
