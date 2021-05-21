@@ -82,16 +82,16 @@
 
 </details></h2>
 
-<h2 align="center"><details><summary>🔍 Resources</h2></summary>
-   <h3>
+<h3 align="center"><details><summary>🔍 Resources</summary>
+
 <p align="center"> <a href=""></a></p>
 <p align="center"> <a href="https://github.com/kubrakurt/data_analysis_resources">Data Analysis</a></p>
 <p align="center"> <a href="https://github.com/kubrakurt/data_visualization_resources">Data Visualization</a></p>
 <p align="center"> <a href="https://github.com/kubrakurt/deep_learning_resources">Deep Learning</a></p>
 <p align="center"> <a href="https://github.com/kubrakurt/machine_learning_resources">Machine Learning</a></p>
 <p align="center"> <a href="https://github.com/kubrakurt/natural_language_processing_resources">Natural Language Processing</a></p>
-</h3>
 
+</details></h3>
 
 <h2 align="center">GitHub Stats</h2>
 
