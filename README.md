@@ -82,7 +82,7 @@
 
 </details></h2>
 
-<h2 align="center"><details><summary>🔍 Resources</summary>
+<h2 align="center"><details><summary>🔍 Resources</summary></h2>
    
 <p align="center"> <a href=""></a></p>
 <p align="center"> <a href="https://github.com/kubrakurt/data_analysis_resources">Data Analysis</a></p>
