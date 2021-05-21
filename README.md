@@ -93,6 +93,7 @@
 
 <h2 align="center"><details><summary>🔍 Resources</summary>
    <ul>   
+      <p align="center"> <a href=""></a></p>
       <p align="center"> <a href="https://github.com/kubrakurt/data_analysis_resources">Data Analysis</a></p>
       <p align="center"> <a href="https://github.com/kubrakurt/data_visualization_resources">Data Visualization</a></p>
       <p align="center"> <a href="https://github.com/kubrakurt/deep_learning_resources">Deep Learning</a></p>
