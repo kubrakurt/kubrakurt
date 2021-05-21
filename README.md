@@ -88,6 +88,7 @@
 <p align="center"> <a href="https://github.com/kubrakurt/deep_learning_resources">Deep Learning</a></p>
 <p align="center"> <a href="https://github.com/kubrakurt/machine_learning_resources">Machine Learning</a></p>
 <p align="center"> <a href="https://github.com/kubrakurt/natural_language_processing_resources">Natural Language Processing</a></p>
+<a href="https://www.w3schools.com/">Visit W3Schools.com!</a>
 
 </details></h2>
 
@@ -99,7 +100,5 @@
    
    [![Kübra's github activity graph](https://activity-graph.herokuapp.com/graph?username=kubrakurt&theme=react-dark)](https://git.io/kubrakurt)
 </p>
-<details>
-    <summary>Details</summary>
-    Something small enough to escape casual notice.
-</details>
+
+   v
