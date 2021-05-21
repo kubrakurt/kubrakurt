@@ -61,6 +61,7 @@
 
 <h2 align="center"><details><summary>Recent Medium Blog Posts</summary>
    
+   <p align="center"> <a href=""></a></p>
    <p align="center">
       <a href="https://medium.com/deeplab-tech/kosinüs-benzerlik-algoritması-ve-kitap-önerileri-5123cf7c54c1">Kosinüs Benzerlik Algoritması ve Kitap Önerisi Uygulaması</a>
    </p>
@@ -83,24 +84,14 @@
 
 <h2 align="center"><details><summary>🔍 Resources</summary>
    
+<p align="center"> <a href=""></a></p>
 <p align="center"> <a href="https://github.com/kubrakurt/data_analysis_resources">Data Analysis</a></p>
 <p align="center"> <a href="https://github.com/kubrakurt/data_visualization_resources">Data Visualization</a></p>
 <p align="center"> <a href="https://github.com/kubrakurt/deep_learning_resources">Deep Learning</a></p>
 <p align="center"> <a href="https://github.com/kubrakurt/machine_learning_resources">Machine Learning</a></p>
 <p align="center"> <a href="https://github.com/kubrakurt/natural_language_processing_resources">Natural Language Processing</a></p>
 
-</details></h2>
 
-<h2 align="center"><details><summary>🔍 Resources</summary>
-   <ul>   
-      <p align="center"> <a href=""></a></p>
-      <p align="center"> <a href="https://github.com/kubrakurt/data_analysis_resources">Data Analysis</a></p>
-      <p align="center"> <a href="https://github.com/kubrakurt/data_visualization_resources">Data Visualization</a></p>
-      <p align="center"> <a href="https://github.com/kubrakurt/deep_learning_resources">Deep Learning</a></p>
-      <p align="center"> <a href="https://github.com/kubrakurt/machine_learning_resources">Machine Learning</a></p>
-      <p align="center"> <a href="https://github.com/kubrakurt/natural_language_processing_resources">Natural Language Processing</a></p>
-   </ul>
-</details></h2>   
 
 <h2 align="center">GitHub Stats</h2>
 
