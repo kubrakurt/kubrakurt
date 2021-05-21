@@ -45,20 +45,6 @@
 <p align="center"> <a href="https://github.com/kubrakurt/python_text_scraping">Scraping Text from Wikipedia and News Websites with Python</a></p>
 <p align="center"> <a href="https://github.com/kubrakurt/word2vec_model">Text Preprocessing, WordCloud & Word2Vec Model with Python</a></p>
 
-<p align="center">
-   
-   <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp"   width="30">
-   <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="30">
-   <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/source.gif" width="30">
-   <img src="https://media.giphy.com/media/SU2ic3wTfuC6JhD1lA/giphy.gif" width="30">
-   <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="70">
-   <img src="https://media.giphy.com/media/gjrOAylhpZm3dLnO5J/source.gif" width="60">
-   <img src="https://media.giphy.com/media/U4MJ0KpWxlHBJrQH5g/giphy.gif" width="50">
-   <img src="https://media.giphy.com/media/H7f5ZGjvKXBaLbBigO/source.gif" width="70">
-   <img src="https://media.giphy.com/media/SsCYf6DRFJrOpP0IoM/giphy.gif" width="60">
-   
-</p>
-
 <h3 align="center"><details><summary>Recent Medium Blog Posts</summary>
    
    <p align="center"> <a href=""></a></p>
