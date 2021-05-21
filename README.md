@@ -36,7 +36,7 @@
    
 </div>
 
-<h2 align="center">📈 Projects</h2>
+<h3 align="center">📈 Projects</h3>
 
 <p align="center"> <a href="https://github.com/kubrakurt/iris_visualization_and_classification">IRIS Visualization and Classification</a></p>
 <p align="center"> <a href="https://github.com/kubrakurt/lightgbm_model">LightGBM Model</a></p>
@@ -59,7 +59,7 @@
    
 </p>
 
-<h2 align="center"><details><summary>Recent Medium Blog Posts</summary>
+<h3 align="center"><details><summary>Recent Medium Blog Posts</summary>
    
    <p align="center"> <a href=""></a></p>
    <p align="center">
@@ -80,7 +80,7 @@
       <a href="https://medium.com/kaveai/öneri-sistemleri-recommendation-systems-9c4d981d1750">Python ile Öneri Sistemleri</a>
    </p>
 
-</details></h2>
+</details></h3>
 
 <h3 align="center"><details><summary>🔍 Resources</summary>
 
@@ -93,7 +93,7 @@
 
 </details></h3>
 
-<h2 align="center">GitHub Stats</h2>
+<h3 align="center">GitHub Stats</h3>
 
 <p align="center">
    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=kubrakurt&show_icons=true&theme=tokyonight" />
