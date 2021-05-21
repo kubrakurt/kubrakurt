@@ -99,3 +99,7 @@
    
    [![Kübra's github activity graph](https://activity-graph.herokuapp.com/graph?username=kubrakurt&theme=react-dark)](https://git.io/kubrakurt)
 </p>
+<details>
+    <summary>Details</summary>
+    Something small enough to escape casual notice.
+</details>
