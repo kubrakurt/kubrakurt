@@ -1,7 +1,3 @@
-<p align="center">
-<img src="https://github.com/hargun79/hargun79/blob/master/Assets/hi.gif" width="300">
-</p>
-
 <h1 align="center"> Hi, I'm Kübra! </h1>
 
 <h3 align="center"> Data Analyst at ENBIOSIS Biotechnology, Statistics at Marmara University </h3>
