@@ -2,10 +2,13 @@
 
 <h3 align="center"> Data Analyst at ENBIOSIS Biotechnology, Statistics at Marmara University </h3>
 
-<p align="left">🔭 I’m currently working on Machine Learning, Deep Learning, Natural Language Processing, Data Analysis</p>
-<p align="left">🌱 I’m currently learning Keras, Tensorflow, Deep Learning, Imagine Processing, OpenCV, Flask, Django, StyleGAN</a></p>
-<p align="left">📝 I regularly write articles on https://kubrakurt.medium.com</p>
-<p align="left">📫 How to reach me <a href = "mailto: kubrakurtt98@gmail.com">kubrakurtt98@gmail.com</a></p>
+🔭 I’m currently working on Machine Learning, Deep Learning, Natural Language Processing, Data Analysis
+
+🌱 I’m currently learning Keras, Tensorflow, Deep Learning, Imagine Processing
+
+📝 I regularly write articles on https://kubrakurt.medium.com</p>
+
+📫 How to reach me <a href = "mailto: kubrakurtt98@gmail.com">kubrakurtt98@gmail.com</a>
 
 <div align="left">
    
