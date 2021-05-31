@@ -2,12 +2,12 @@
 
 <h3 align="center"> Data Analyst at ENBIOSIS Biotechnology, Statistics at Marmara University </h3>
 
-<p align="center">🔭 I’m currently working on Machine Learning, Deep Learning, Natural Language Processing, Data Analysis</p>
-<p align="center">🌱 I’m currently learning Keras, Tensorflow, Deep Learning, Imagine Processing, OpenCV, Flask, Django, StyleGAN</a></p>
-<p align="center">📝 I regularly write articles on https://kubrakurt.medium.com</p>
-<p align="center">📫 How to reach me <a href = "mailto: kubrakurtt98@gmail.com">kubrakurtt98@gmail.com</a></p>
+<p align="left">🔭 I’m currently working on Machine Learning, Deep Learning, Natural Language Processing, Data Analysis</p>
+<p align="left">🌱 I’m currently learning Keras, Tensorflow, Deep Learning, Imagine Processing, OpenCV, Flask, Django, StyleGAN</a></p>
+<p align="left">📝 I regularly write articles on https://kubrakurt.medium.com</p>
+<p align="left">📫 How to reach me <a href = "mailto: kubrakurtt98@gmail.com">kubrakurtt98@gmail.com</a></p>
 
-<div align="center">
+<div align="left">
    
    <a href="https://github.com/kubrakurt" target="_blank">
       <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -32,56 +32,38 @@
    
 </div>
 
-<h3 align="center">📈 Projects</h3>
+<h3 align="left">Projects</h3>
 
-<p align="center"> <a href="https://github.com/kubrakurt/iris_visualization_and_classification">IRIS Visualization and Classification</a></p>
-<p align="center"> <a href="https://github.com/kubrakurt/lightgbm_model">LightGBM Model</a></p>
-<p align="center"> <a href="https://github.com/kubrakurt/turkish_movie_sentiment_analysis">Movie Comments Sentiment Analysis with Python</a></p>
-<p align="center"> <a href="https://github.com/kubrakurt/recommendation_systems">Recommendation System</a></p>
-<p align="center"> <a href="https://github.com/kubrakurt/python_text_scraping">Scraping Text from Wikipedia and News Websites with Python</a></p>
-<p align="center"> <a href="https://github.com/kubrakurt/word2vec_model">Text Preprocessing, WordCloud & Word2Vec Model with Python</a></p>
+- [IRIS Visualization and Classification](https://github.com/kubrakurt/iris_visualization_and_classification)
+- [LightGBM Model](https://github.com/kubrakurt/lightgbm_model)
+- [Movie Comments Sentiment Analysis with Python](https://github.com/kubrakurt/turkish_movie_sentiment_analysis)   
+- [Recommendation System](https://github.com/kubrakurt/recommendation_systems)
+- [Scraping Text from Wikipedia and News Websites with Python](https://github.com/kubrakurt/python_text_scraping)
+- [Text Preprocessing, WordCloud & Word2Vec Model with Python](https://github.com/kubrakurt/word2vec_model)
 
-<h3 align="center"><details><summary>Recent Medium Blog Posts</summary>
+<h3 align="left">Recent Medium Blog Posts</h3>
    
-   <p align="center"> <a href=""></a></p>
-   <p align="center">
-      <a href="https://medium.com/deeplab-tech/kosinüs-benzerlik-algoritması-ve-kitap-önerileri-5123cf7c54c1">Kosinüs Benzerlik Algoritması ve Kitap Önerisi Uygulaması</a>
-   </p>
-   <p align="center"> 
-      <a href="https://medium.com/kaveai/matematiği-ve-python-uygulamasıyla-lightgbm-hafif-gradyan-artırma-makinesi-18d2f12e7870">Matematiği ve Python Uygulamasıyla LightGBM</a>    </p>
-   <p align="center">
-      <a href="https://medium.com/deeplab-tech/python-ile-film-yorumlarının-duygu-analizi-250870ee175c">Python ile Film Yorumlarının Duygu Analizi</a>
-   </p>
-   <p align="center">
-      <a href="https://medium.com/deeplab-tech/python-ile-metin-ön-i̇şleme-wordcloud-word2vec-model-87b3e84abdfd">Python ile Metin Ön İşleme, WordCloud & Word2Vec Model</a>
-   </p>
-   <p align="center">
-      <a href="https://medium.com/deeplab-tech/python-ile-vikipedi-haber-sitelerinden-metin-kazıma-7a64f2e0e3a2">Python ile Vikipedi & Haber Sitelerinden Metin Kazıma</a>
-   </p>
-   <p align="center">
-      <a href="https://medium.com/kaveai/öneri-sistemleri-recommendation-systems-9c4d981d1750">Python ile Öneri Sistemleri</a>
-   </p>
+- [Kosinüs Benzerlik Algoritması ve Kitap Önerisi Uygulaması](https://medium.com/deeplab-tech/kosinüs-benzerlik-algoritması-ve-kitap-önerileri-5123cf7c54c1)   
+- [Matematiği ve Python Uygulamasıyla LightGBM](https://medium.com/kaveai/matematiği-ve-python-uygulamasıyla-lightgbm-hafif-gradyan-artırma-makinesi-18d2f12e7870) 
+- [Python ile Film Yorumlarının Duygu Analizi](https://medium.com/deeplab-tech/python-ile-film-yorumlarının-duygu-analizi-250870ee175c) 
+- [Python ile Metin Ön İşleme, WordCloud & Word2Vec Model](https://medium.com/deeplab-tech/python-ile-metin-ön-i̇şleme-wordcloud-word2vec-model-87b3e84abdfd)    
+- [Python ile Vikipedi & Haber Sitelerinden Metin Kazıma](https://medium.com/deeplab-tech/python-ile-vikipedi-haber-sitelerinden-metin-kazıma-7a64f2e0e3a2) 
+- [Python ile Öneri Sistemleri](https://medium.com/kaveai/öneri-sistemleri-recommendation-systems-9c4d981d1750)
 
-</details></h3>
+<h3 align="left">Resources</h3>
+   
+- [Data Analysis](https://github.com/kubrakurt/data_analysis_resources)
+- [Data Visualization](https://github.com/kubrakurt/data_visualization_resources)
+- [Deep Learning](https://github.com/kubrakurt/deep_learning_resources)
+- [Machine Learning](https://github.com/kubrakurt/machine_learning_resources)
+- [Natural Language Processing](https://github.com/kubrakurt/natural_language_processing_resources)
 
-<h3 align="center"><details><summary>🔍 Resources</summary>
 
-<p align="center"> <a href=""></a></p>
-<p align="center"> <a href="https://github.com/kubrakurt/data_analysis_resources">Data Analysis</a></p>
-<p align="center"> <a href="https://github.com/kubrakurt/data_visualization_resources">Data Visualization</a></p>
-<p align="center"> <a href="https://github.com/kubrakurt/deep_learning_resources">Deep Learning</a></p>
-<p align="center"> <a href="https://github.com/kubrakurt/machine_learning_resources">Machine Learning</a></p>
-<p align="center"> <a href="https://github.com/kubrakurt/natural_language_processing_resources">Natural Language Processing</a></p>
+<h3 align="left">GitHub Stats</h3>
 
-</details></h3>
-
-<h3 align="center">GitHub Stats</h3>
-
-<p align="center">
+<p align="left">
    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=kubrakurt&show_icons=true&theme=tokyonight" />
    <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=kubrakurt&theme=tokyonight" />
    
    [![Kübra's github activity graph](https://activity-graph.herokuapp.com/graph?username=kubrakurt&theme=react-dark)](https://git.io/kubrakurt)
 </p>
-
-   v
