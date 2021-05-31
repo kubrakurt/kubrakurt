@@ -41,7 +41,7 @@
 - [Scraping Text from Wikipedia and News Websites with Python](https://github.com/kubrakurt/python_text_scraping)
 - [Text Preprocessing, WordCloud & Word2Vec Model with Python](https://github.com/kubrakurt/word2vec_model)
 
-<h3 align="left">Recent Medium Blog Posts</h3>
+<h3 align="left">Medium Blog Posts</h3>
    
 - [Kosinüs Benzerlik Algoritması ve Kitap Önerisi Uygulaması](https://medium.com/deeplab-tech/kosinüs-benzerlik-algoritması-ve-kitap-önerileri-5123cf7c54c1)   
 - [Matematiği ve Python Uygulamasıyla LightGBM](https://medium.com/kaveai/matematiği-ve-python-uygulamasıyla-lightgbm-hafif-gradyan-artırma-makinesi-18d2f12e7870) 
