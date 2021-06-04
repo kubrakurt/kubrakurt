@@ -37,6 +37,7 @@
 
 <h3 align="left">Projects</h3>
 
+- [Cosine Similarity](https://github.com/kubrakurt/cosine_similarity)
 - [IRIS Visualization and Classification](https://github.com/kubrakurt/iris_visualization_and_classification)
 - [LightGBM Model](https://github.com/kubrakurt/lightgbm_model)
 - [Movie Comments Sentiment Analysis with Python](https://github.com/kubrakurt/turkish_movie_sentiment_analysis)   
