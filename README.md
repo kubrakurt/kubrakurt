@@ -6,7 +6,7 @@
 
 🌱 I’m currently learning Keras, Tensorflow, Deep Learning, Imagine Processing
 
-📝 I regularly write articles on https://kubrakurt.medium.com</p>
+📝 I regularly write articles on kubrakurt.medium.com</p>
 
 📫 How to reach me <a href = "mailto: kubrakurtt98@gmail.com">kubrakurtt98@gmail.com</a>
 
