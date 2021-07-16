@@ -41,6 +41,7 @@
 - [IRIS Visualization and Classification](https://github.com/kubrakurt/iris_visualization_and_classification)
 - [LightGBM Model](https://github.com/kubrakurt/lightgbm_model)
 - [Movie Comments Sentiment Analysis with Python](https://github.com/kubrakurt/turkish_movie_sentiment_analysis)   
+- [Neural Style Transfer ](https://github.com/kubrakurt/neural_style_transfer)
 - [Recommendation System](https://github.com/kubrakurt/recommendation_systems)
 - [Scraping Text from Wikipedia and News Websites with Python](https://github.com/kubrakurt/python_text_scraping)
 - [Text Preprocessing, WordCloud & Word2Vec Model with Python](https://github.com/kubrakurt/word2vec_model)
