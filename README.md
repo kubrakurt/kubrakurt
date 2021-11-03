@@ -2,9 +2,9 @@
 
 <h3 align="center"> Data Scientist at IT HERO </h3>
 
-🔭 I’m currently working on Machine Learning, Deep Learning, Natural Language Processing, Data Analysis
+🔭 I’m currently working on MLOps, AutoML, Machine Learning, Deep Learning, Natural Language Processing, Data Analysis
 
-🌱 I’m currently learning Keras, Tensorflow, Deep Learning, Imagine Processing
+🌱 I’m currently learning Imagine Processing
 
 📝 I regularly write articles on https://kubrakurt.medium.com</p>
 
