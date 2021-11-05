@@ -1,6 +1,6 @@
-<h1 align="center"> Hi, I'm Kübra! 👋</h1>
+<h1 align="center"> Hi, I'm Kübra! 👋 </h1>
 
-<h3 align="center"> Data Scientist at IT HERO </h3>
+<h3 align="center"> Data Scientist at IT HERO  🦸🏻‍♀️ </h3>
 
 🔭 I’m currently working on MLOps, AutoML, Machine Learning, Deep Learning, Natural Language Processing
 
