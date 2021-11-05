@@ -2,7 +2,7 @@
 
 <h3 align="center"> Data Scientist at IT HERO </h3>
 
-🔭 I’m currently working on MLOps, AutoML, Machine Learning, Deep Learning, Natural Language Processing, Data Analysis
+🔭 I’m currently working on MLOps, AutoML, Machine Learning, Deep Learning, Natural Language Processing
 
 🌱 I’m currently learning Imagine Processing
 
