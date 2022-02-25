@@ -60,6 +60,7 @@
 - [Data Analysis](https://github.com/kubrakurt/data_analysis_resources)
 - [Data Visualization](https://github.com/kubrakurt/data_visualization_resources)
 - [Deep Learning](https://github.com/kubrakurt/deep_learning_resources)
+- [Libraries](https://github.com/kubrakurt/libraries)
 - [Machine Learning](https://github.com/kubrakurt/machine_learning_resources)
 - [Natural Language Processing](https://github.com/kubrakurt/natural_language_processing_resources)
 
