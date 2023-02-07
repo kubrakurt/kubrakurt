@@ -1,6 +1,6 @@
 <h1 align="center"> Hi, I'm Kübra! 👋 </h1>
 
-<h3 align="center"> Data Scientist at IT HERO https://www.autommate.com/ 🦸🏻‍♀️ </h3>
+<h3 align="center"> Data Scientist at www.autommate.com 🦸🏻‍♀️ </h3>
 
 🔭 I’m currently working on RPA, AutoML, MLOps, Machine Learning, Natural Language Processing
 
