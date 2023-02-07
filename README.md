@@ -1,12 +1,12 @@
 <h1 align="center"> Hi, I'm Kübra! 👋 </h1>
 
-<h3 align="center"> Data Scientist at IT HERO  🦸🏻‍♀️ </h3>
+<h3 align="center"> Data Scientist at IT HERO Autom Mate 🦸🏻‍♀️ www.autommate.com </h3>
 
 🔭 I’m currently working on MLOps, AutoML, Machine Learning, Deep Learning, Natural Language Processing
 
 🌱 I’m currently learning Imagine Processing
 
-📝 I regularly write articles on https://kubrakurt.medium.com</p>
+📝 I regularly write articles on kubrakurt.medium.com</p>
 
 📫 How to reach me <a href = "mailto: kubrakurtt98@gmail.com">kubrakurtt98@gmail.com</a>
 
