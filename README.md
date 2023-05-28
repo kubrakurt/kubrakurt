@@ -1,10 +1,10 @@
 <h1 align="center"> Hi, I'm Kübra! 👋 </h1>
 
-<h3 align="center"> Data Scientist at www.autommate.com 🦸🏻‍♀️ </h3>
+<h3 align="center"> Data Scientist </h3>
 
-🔭 I’m currently working on RPA, AutoML, MLOps, Machine Learning, Natural Language Processing
+🔭 I’m currently working on Machine Learning, Natural Language Processing, RPA, AutoML, MLOps
 
-🌱 I’m currently learning Imagine Processing, Deep Learning
+🌱 I’m currently learning Machine Learning, Web Scraping, Natural Language Processing (NLP), Image Processing, Ensemble Models, Deep Learning, MLOps, AutoML, RPA (Robotic Process Automation), NoCode AI, CRM, Recommendation Systems
 
 📝 I regularly write articles on [kubrakurt.medium.com](https://kubrakurt.medium.com/) </p>
 
