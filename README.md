@@ -35,7 +35,7 @@
    
 </div>
 
-<h3 align="left">Projects</h3>
+<h3 align="left">Individual Projects</h3>
 
 - [Cosine Similarity](https://github.com/kubrakurt/cosine_similarity)
 - [IRIS Visualization and Classification](https://github.com/kubrakurt/iris_visualization_and_classification)
@@ -48,6 +48,7 @@
 
 <h3 align="left">Medium Blog Posts</h3>
    
+- [Yapay Zeka ile Dans Eden Robotlar: RPA ve Yapay Zeka’nın Buluşması](https://kubrakurt.medium.com/yapay-zeka-ile-dans-eden-robotlar-rpa-ve-yapay-zekan%C4%B1n-bulu%C5%9Fmas%C4%B1-9571b21e5b6c)
 - [Kosinüs Benzerlik Algoritması ve Kitap Önerisi Uygulaması](https://medium.com/deeplab-tech/kosinüs-benzerlik-algoritması-ve-kitap-önerileri-5123cf7c54c1)   
 - [Matematiği ve Python Uygulamasıyla LightGBM](https://medium.com/kaveai/matematiği-ve-python-uygulamasıyla-lightgbm-hafif-gradyan-artırma-makinesi-18d2f12e7870) 
 - [Python ile Film Yorumlarının Duygu Analizi](https://medium.com/deeplab-tech/python-ile-film-yorumlarının-duygu-analizi-250870ee175c) 
