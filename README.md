@@ -2,9 +2,9 @@
 
 <h3 align="center"> Data Scientist </h3>
 
-🔭 I’m currently working on Machine Learning, Natural Language Processing, RPA, AutoML, MLOps
+🔭 I’m currently working on Data Analysis, Data Science & RPA (Robotic Process Automation)
 
-🌱 I’m currently learning Machine Learning, Web Scraping, Natural Language Processing (NLP), Image Processing, Ensemble Models, Deep Learning, MLOps, AutoML, RPA (Robotic Process Automation), NoCode AI, CRM, Recommendation Systems
+🌱 I’m currently learning Data Analysis, Data Science & RPA (Robotic Process Automation)
 
 📝 I regularly write articles on [kubrakurt.medium.com](https://kubrakurt.medium.com/) </p>
 
