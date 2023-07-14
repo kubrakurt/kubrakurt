@@ -1,10 +1,6 @@
 <h1 align="center"> Hi, I'm Kübra! 👋 </h1>
 
-<h3 align="center"> Data Scientist </h3>
-
 🔭 I’m currently working on Data Analysis, Data Science & RPA (Robotic Process Automation)
-
-🌱 I’m currently learning Data Analysis, Data Science & RPA (Robotic Process Automation)
 
 📝 I regularly write articles on [kubrakurt.medium.com](https://kubrakurt.medium.com/) </p>
 
